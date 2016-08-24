@@ -1,0 +1,2 @@
+# mantra.om
+startapp
